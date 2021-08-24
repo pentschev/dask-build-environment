@@ -30,6 +30,6 @@ excludes:
     BUILD_IMAGE: gpuci/dask
 
   - RAPIDS_VER: '21.08'
-    UCX_PY_VER: '0.22'
-  - RAPIDS_VER: '21.10'
     UCX_PY_VER: '0.21'
+  - RAPIDS_VER: '21.10'
+    UCX_PY_VER: '0.22'
